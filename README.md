@@ -12,5 +12,5 @@ Repositório criado no intuito de<br> armazenar os meus projetos<br> sobre visã
 #
 
 <div align = center>
-<img src="" in-width="400px" max-width="350px" width="350px" align="center" alt="imagebobfimzz">
+<img src="https://i.imgur.com/SDjwxsr.png" in-width="400px" max-width="750px" width="750px" align="center" alt="imagebobfimzz">
 </div>
